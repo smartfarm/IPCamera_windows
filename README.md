@@ -1,0 +1,3 @@
+# IPCamera_windows
+Smartfarm项目的海康威视ipcamera控制程序windows版本
+具体细节可以看说明文档。
